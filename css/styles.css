@@ -10968,6 +10968,16 @@ header.masthead .masthead-heading {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+hr {
+  border: none;
+  height: 5px;
+  color: #198754; 
+  background-color: #198754;
+  /* width: 200px;
+  padding-left: 200px; */
+}
+
+
 @media (min-width: 768px) {
   header.masthead {
     padding-top: 17rem;
